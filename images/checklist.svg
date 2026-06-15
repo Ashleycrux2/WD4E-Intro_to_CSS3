@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="0 0 700 700" role="img" aria-labelledby="title desc">
+  <title id="title">Lista de verificacion</title>
+  <desc id="desc">Hoja con marcas de verificacion moradas.</desc>
+  <rect width="700" height="700" fill="#f2d7ff"/>
+  <rect x="160" y="95" width="380" height="510" rx="30" fill="#ffffff"/>
+  <rect x="225" y="155" width="250" height="38" rx="19" fill="#7a2ca8"/>
+  <g fill="none" stroke="#4c176d" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M215 270l33 34 70-82"/><path d="M215 385l33 34 70-82"/><path d="M215 500l33 34 70-82"/>
+  </g>
+  <g fill="#d7b8e7">
+    <rect x="355" y="245" width="120" height="28" rx="14"/><rect x="355" y="360" width="120" height="28" rx="14"/><rect x="355" y="475" width="120" height="28" rx="14"/>
+  </g>
+</svg>
